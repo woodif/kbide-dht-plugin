@@ -1,0 +1,15 @@
+{
+  "name": "kbide-dht-library",
+  "title" : "DHT sensor library",
+  "keywords" : "onewire, 1-wire, bus, sensor, temperature",
+  "description": "Arduino ESP library for DHT11, DHT22, etc Temp & Humidity Sensors",
+  "homepage": "",
+  "git" : "https://github.com/comdet/kbide-dht-library/",
+  "author" : "mymymy" ,
+  "email": "xxx@gmail.com",
+  "url": "https://github.com/beegee-tokyo/DHTesp.git",
+  "version": "1.0.99",
+  "board" : "",
+  "platforms": "arduino-esp32",
+  "license": "GPL-3.0-only"
+}
